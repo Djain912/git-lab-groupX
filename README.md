@@ -6,3 +6,7 @@ DEVOPS LAB
 
 3rd: CREATED BRACH yashjadhav
 4th: pushed the new updated readme 3rd and 4th step
+
+
+5th: CREATED BRACH chetna
+6th: pushed the new updated readme 5th and 6th step
